@@ -48,6 +48,9 @@ void goal() {
 **Scripting**
 `Bash` · `PowerShell`
 
+**Databases**
+`MySQL`
+
 <br>
 
 ## `cat currently_learning.txt`
