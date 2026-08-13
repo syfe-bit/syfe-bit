@@ -1,8 +1,8 @@
-# Hi there, I'm a Systems Security Student 👋
+# Hi there, I'm Syfe 👋
 
 > *"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases."*
 
-I am deeply passionate about low-level programming, cybersecurity, and system architecture. Currently focusing on system-level code, memory safety, and kernel concepts.
+I am a **Systems Security Student** deeply passionate about low-level programming, cybersecurity, and system architecture. Currently focusing on system-level development, memory safety, and kernel concepts.
 
 ---
 
