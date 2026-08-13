@@ -32,12 +32,12 @@ I am deeply passionate about low-level programming, cybersecurity, and system ar
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-PSEUDO-ICI&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-PSEUDO-ICI&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syfe-bit&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syfe-bit&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON-PSEUDO-ICI&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=syfe-bit&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
