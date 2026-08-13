@@ -1,27 +1,29 @@
 <div align="center">
-```
-   _____             __      
-  / ___/__  __ ___ _/ /____  
-  \__ \/ / / / __ `/ __/ _ \ 
- ___/ / /_/ / /_/ / /_/  __/ 
-/____/\__, /\__,_/\__/\___/  
-     /____/                  
-```
- 
+
+/ / __ ___ / /__
+__ / / / / __ `/ __/ _ \
+__/ / // / // / // __/
+//_, /_,/_/_/
+/____/
+
+
 ### `> booting syfe_os.bin ...`
 ### `> kernel loaded. welcome.`
- 
+
 </div>
+
 <br>
+
 ## `whoami`
- 
+
 Étudiant en **sécurité des systèmes**, obsédé par ce qui se passe *sous* le code applicatif : mémoire, kernel, bootloaders. Je préfère comprendre comment une machine démarre plutôt que ce qu'on peut afficher à l'écran.
- 
+
 > *"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases."*
- 
+
 <br>
+
 ## `objectif_final()`
- 
+
 ```c
 void goal() {
     build_operating_system();  // from scratch
@@ -30,91 +32,60 @@ void goal() {
     write_kernel();            // scheduler, drivers, syscalls
 }
 ```
- 
+
 <br>
+
 ## `stack --list`
- 
+
 **Bas niveau / systèmes**
 `C` · `C++` · `Rust` · `x86 Assembly`
- 
+
 **Haut niveau**
 `Python` · `Java` · `C#`
- 
+
 **Scripting**
 `Bash` · `PowerShell`
- 
+
 <br>
+
 ## `cat currently_learning.txt`
- 
+
 - 🧠 Gestion mémoire (paging, segmentation, allocation)
 - ⚙️ Écriture de bootloaders bas niveau
 - 🔐 Sécurité système et exploitation mémoire
 - 🖥️ Architecture kernel (scheduler, syscalls, drivers)
+
 <br>
+
 ## `stats --show`
- 
+
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=syfe-bit&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syfe-bit&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="45%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=syfe-bit&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="70%" />
+
 </div>
+
 <br>
+
 ## `connect --to syfe`
- 
+
 <div align="center">
-<!-- Remplace les liens ci-dessous par les tiens -->
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syfe-bit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
- 
+
 </div>
+
 <div align="center">
 <sub>
+
 `> process syfe_os terminated with exit code 0`
- 
+
 <img src="https://komarev.com/ghpvc/?username=syfe-bit&color=6272a4&style=flat-square&label=Visiteurs" alt="Profile Views" />
+
 </sub>
 </div>
-# Hi there, I'm Syfe 👋
-
-> *"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases."*
-
-I am a **Systems Security Student** deeply passionate about low-level programming, cybersecurity, and system architecture. Currently focusing on system-level development, memory safety, and kernel concepts.
-
----
-
-### 🚀 Ultimate Goal
-* **Building my own Operating System from scratch!** 🛠️ *(Exploring kernels, bootloaders, and memory management)*
-
----
-
-### 🛠️ Languages & Tech Stack
-
-#### Systems & Low-Level
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-#### High-Level & Object-Oriented
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=white)
-
-#### Scripting & Automation
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syfe-bit&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syfe-bit&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syfe-bit&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
