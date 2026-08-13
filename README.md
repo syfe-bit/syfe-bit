@@ -18,13 +18,13 @@
 
 ## `whoami`
 
-Étudiant en **sécurité des systèmes**, obsédé par ce qui se passe *sous* le code applicatif : mémoire, kernel, bootloaders. Je préfère comprendre comment une machine démarre plutôt que ce qu'on peut afficher à l'écran.
+**Systems security student**, obsessed with what happens *below* application code: memory, kernel, bootloaders. I'd rather understand how a machine boots than what it can display on screen.
 
 > *"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases."*
 
 <br>
 
-## `objectif_final()`
+## `final_goal()`
 
 ```c
 void goal() {
@@ -39,10 +39,10 @@ void goal() {
 
 ## `stack --list`
 
-**Bas niveau / systèmes**
+**Low-level / systems**
 `C` · `C++` · `Rust` · `x86 Assembly`
 
-**Haut niveau**
+**High-level**
 `Python` · `Java` · `C#`
 
 **Scripting**
@@ -52,10 +52,10 @@ void goal() {
 
 ## `cat currently_learning.txt`
 
-- 🧠 Gestion mémoire (paging, segmentation, allocation)
-- ⚙️ Écriture de bootloaders bas niveau
-- 🔐 Sécurité système et exploitation mémoire
-- 🖥️ Architecture kernel (scheduler, syscalls, drivers)
+- 🧠 Memory management (paging, segmentation, allocation)
+- ⚙️ Writing low-level bootloaders
+- 🔐 System security and memory exploitation
+- 🖥️ Kernel architecture (scheduler, syscalls, drivers)
 
 <br>
 
@@ -76,7 +76,7 @@ void goal() {
 
 <div align="center">
 
-<!-- Remplace les liens ci-dessous par les tiens -->
+<!-- Replace the links below with your own -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syfe-bit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
@@ -88,7 +88,7 @@ void goal() {
 
 `> process syfe_os terminated with exit code 0`
 
-<img src="https://komarev.com/ghpvc/?username=syfe-bit&color=6272a4&style=flat-square&label=Visiteurs" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=syfe-bit&color=6272a4&style=flat-square&label=Visitors" alt="Profile Views" />
 
 </sub>
 </div>
